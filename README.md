@@ -23,9 +23,7 @@ There is no query engine, the aim instead is to make it possible to pick indexes
 
 ## Current Version: Compound2
 
-```clojure
-[riverford/compound "2020.01.09"]
-```
+<picture>![Current Version](https://clojars.org/riverford/compound/latest-version.svg)</picture>
 
 For previous versions - see [changelog](https://github.com/riverford/compound/blob/master/CHANGELOG.md).
 Note the current version is the *second* major version (see [legacy version](#legacy-version) for information about the previous version).
